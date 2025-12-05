@@ -3,6 +3,7 @@
 > Um sistema de xadrez robusto e interativo desenvolvido em **Java Puro**, focado na aplicação de conceitos avançados de Programação Orientada a Objetos.
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ![Status Badge](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 
 ---
